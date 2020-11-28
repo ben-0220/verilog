@@ -1,2 +1,2 @@
 # verilog
-數位電路設計hw
+Digital_Circuit_Design
