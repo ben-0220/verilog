@@ -1,2 +1,2 @@
-# digital_circuit_design
+# Digital_Circuit_Design
 
